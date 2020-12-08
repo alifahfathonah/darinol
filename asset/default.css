@@ -1,0 +1,99 @@
+/* CSS Style by Zuhdi Robbani @zuhdirobbani */
+body{
+  font-family: 'Baloo Tamma 2', cursive;
+}
+a{
+  color: #00C0FF;
+}
+a:hover{
+  color: #00C0FF;
+  text-decoration: none;
+  opacity: 0.6;
+}
+.vid-carousel{
+  margin-top:80px;
+}
+.vid-article{
+  margin-top:50px;
+}
+.vid-article h2{
+  font-size: 36px;
+  font-weight: 300;
+}
+.vid-article .row-article{
+  margin-top: 25px;
+}
+.vid-article .row-article h3{
+  font-size: 20px;
+}
+.vid-article .row-article .img-product:hover{
+  opacity: 0.8;
+}
+.vid-product{
+  margin:25px 0 0 0;
+}
+.vid-product h2{
+  font-size: 36px;
+  font-weight: 300;
+}
+.vid-product .row-product{
+  margin-bottom: 25px;
+}
+.vid-product h3{
+  font-size: 22px;
+}
+.vid-product img:hover{
+  opacity: 0.8;
+}
+.vid-product a{
+  color:#333;
+}
+.vid-product a:hover{
+  color:#222;
+  text-decoration: none;
+}
+.vid-product .row-featured-product h3{
+  margin-top: 15px;
+  font-size: 20px;
+}
+.vid-banner{
+  margin-top:100px;
+  padding:50px 0;
+  background-color: #373636;
+  color: #fff;
+}
+.vid-banner h1{
+  font-size: 48px;
+  font-weight: 300;
+}
+.vid-footer{
+  margin-top: 25px;
+  padding:30px 0;
+  background-color: #373636;
+  color: #fff;
+}
+.vid-footer .copyright{
+  font-size: 14px;
+}
+.page-link {
+    position: relative;
+    display: block;
+    padding: .5rem .75rem;
+    margin-left: -1px;
+    line-height: 1.25;
+    color: #373636;
+    background-color: #fff;
+    border: 1px solid #dee2e6;
+}
+ul.vid-sidebar {
+  list-style-type: circle;
+}
+ul.vid-sidebar li a{
+  color: #373636;
+  font-size: 18px;
+}
+.vid-sticky {
+  position: fixed;
+  bottom: 5px;
+  right: 5px;
+}
