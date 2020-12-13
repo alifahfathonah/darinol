@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>AdminPanel Login | Vidostore.net</title>
+  <title>AdminPanel Login | DARINOL</title>
   <!-- Tell the browser to be responsive to screen width -->
   <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
   <!-- Bootstrap 3.3.7 -->
@@ -35,7 +35,7 @@
   <!-- /.login-logo -->
   <div class="login-box-body">
     <!-- <div class="login-box-msg"><img src="<?php echo base_url('asset/asset_lte/assets/tpq.png');?>" width="200px"></a> -->
-    <div class="login-box-msg"><h1>VIDOSTORE</h1></a>
+    <div class="login-box-msg"><h1>DARINOL</h1></a>
 
     <form action="" method="post">
       <div class="form-group has-feedback">

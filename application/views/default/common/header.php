@@ -7,5 +7,5 @@
 <link rel="stylesheet" href="<?php echo base_url('asset/default.css') ?>">
 <link href="https://fonts.googleapis.com/css2?family=Baloo+Tamma+2:wght@400;500;600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-<title>{title} | Vidostore - Jual Laptop Tablet untuk Sekolah & Umum</title>
+<title>{title} | <?php $this->set->title(1); ?></title>
 <link rel="stylesheet" href="<?php echo base_url('asset/magnific-popup.css') ?>">
